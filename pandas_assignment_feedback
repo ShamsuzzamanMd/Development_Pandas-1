@@ -1,0 +1,9 @@
+Panda Assignment 2 Review
+
+The whole assignment seems to be perfect, they have use more different ways to solve the solution than us, like ‘str.contains()’.
+They have used chipo_price10=(chipo['item_price']>10).sum()
+to find the values which has costed more than 10 dollars, whereas we have   used .count().
+
+Other than this think the whole code seems to be perfect.
+
+They can look at the step 4 and 8 to make it more concise. 
